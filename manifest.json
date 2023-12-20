@@ -3,5 +3,8 @@
   "version_number": "1.0.0",
   "website_url": "https://github.com/delauraen/SongsToLethalTo",
   "description": "just a silly little song pack for friendos",
-  "dependencies": ["Steven-Custom_Boombox_Music-1.4.0"]
+  "dependencies": [
+		"Steven-Custom_Boombox_Music-1.4.0",
+		"CodeEnder-Custom_Boombox_Fix-1.2.2"
+	]
 }
