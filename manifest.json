@@ -1,9 +1,9 @@
 {
   "name": "SongsToLethalTo",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/delauraen/SongsToLethalTo",
   "description": "just a silly little song pack for friendos",
   "dependencies": [
-		"LC-Boombox"
+		"Steven-Custom_Boombox_Music-1.4.0"
 	]
 }
