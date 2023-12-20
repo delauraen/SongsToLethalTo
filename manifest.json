@@ -3,5 +3,7 @@
   "version_number": "1.0.0",
   "website_url": "",
   "description": "just a silly little song pack for friendos",
-  "dependencies": [ ]
+  "dependencies": [
+		"LC-Boombox"
+	]
 }
